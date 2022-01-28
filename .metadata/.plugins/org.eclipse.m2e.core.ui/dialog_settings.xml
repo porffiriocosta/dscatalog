@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Projetos\ws-bootcamp\crud-clients"/>
+			<item value="C:\Projetos\ws-bootcamp"/>
+			<item value="C:\Projetos\ws-bootcamp\spring-boot"/>
 			<item value="C:\Projetos\ws-bootcamp\dscatalog\back-end"/>
 		</list>
 		<list key="projectNameTemplate">
